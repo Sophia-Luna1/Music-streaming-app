@@ -75,7 +75,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions, feel free to reach out:
 
 - **Email**: support@musicify.com
-- **Twitter**: [@musicify](https://twitter.com/musicify)
+- **Website**: [@spotijams](https://spotijams.com)
 
 ---
 
